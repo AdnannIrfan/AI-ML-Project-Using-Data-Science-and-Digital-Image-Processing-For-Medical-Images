@@ -138,7 +138,7 @@ Open your browser: **http://127.0.0.1:5000**
 
 ---
 
-## What Makes This Project Strong (For Your Teacher)
+
 
 1. **Real Kaggle Datasets** — not synthetic/fake data
 2. **Full NLP Pipeline** — tokenization, stopword removal, lemmatization, TF-IDF
